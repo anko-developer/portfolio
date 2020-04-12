@@ -10,7 +10,7 @@
 - 공고상세
 ```
 
-[벼룩시장구인구직 모바일 신규개편](http://m.findjob.co.kr/)
+[벼룩시장구인구직 모바일 신규개편](http://m.findjob.co.kr/)<br>
 [알바천국 로그인](https://m.alba.co.kr/login/Login.asp)
 [알바천국 회원가입 - 개인](https://sign.alba.co.kr/user/join/JoinRegFormP.asp)
 [알바천국 회원가입 - 기업](https://sign.alba.co.kr/user/join/JoinRegFormC.asp)
